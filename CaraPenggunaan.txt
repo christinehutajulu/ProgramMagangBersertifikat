@@ -1,0 +1,18 @@
+Cara Penggunaan Program
+
+Program ini dibangun menggunakan bahasa pemrograman C karena bahasa ini didesain untuk 
+di-compile secara sederhana agar mendukung akses ke low-level memory. Program ini juga 
+dibangun menggunakan salah satu teks editor tebaik yaitu Dev C++. Berikut adalah cara
+penggunaan dari program yang dibangun dengan menggunakan teks editor Dev C++.
+1. Buka aplikasi IDE yaitu Dev C++
+2. Masukkan program dengan nama file program.c
+3. Setelah source code ditampilkan tekan Compile & Run
+4. Setelah itu akan muncul jendela yang menampilkan hasil program
+5. Masukkan banyak bilangan
+6. Masukkan data bilangan sesuai dengan banyak bilangan 
+7. Program akan mengurutkan bilangan yang dimasukkan mulai dari yang terkecil sampai yang terbesar
+8. Program dapat menampilkan keluaran yang mencakup: nilai rata-rata, nilai tengah dan hasil 
+perkalian dari semua bilangan yang dimasukkan
+9. Bilangan yang dimasukkan adalah bilangan dengan tipe data integer
+10. Nilai rata-rata dan nilai tengah dapat ditampilkan dalam tipe data float
+11. Hasil perkalian dari semua bilangan yang dimasukkan ditampilkan dalam tipe data integer
